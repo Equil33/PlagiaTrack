@@ -1,0 +1,20 @@
+{
+    "rapport_id": "RPT-20250807-095642",
+    "documents_compares": [
+        "C:\\xampp\\htdocs\\PlagiaTrack\\backend/../documents/1/Document parallèle.docx",
+        "C:\\xampp\\htdocs\\PlagiaTrack\\backend/../documents/1/Document principale.docx"
+    ],
+    "taux_similarite": 0,
+    "indice_suspicion_IA": 41.88,
+    "sections_similaires": [
+        {
+            "document1": "C:\\xampp\\htdocs\\PlagiaTrack\\backend/../documents/1/Document parallèle.docx",
+            "document2": "C:\\xampp\\htdocs\\PlagiaTrack\\backend/../documents/1/Document principale.docx",
+            "score_similarite": 0.0001,
+            "sections_similaires": []
+        }
+    ],
+    "analyse_effectuee_le": "2025-08-07 09:56:42",
+    "statut": "Pas de plagiat detecte",
+    "recommendation": "Aucun probleme detecte."
+}

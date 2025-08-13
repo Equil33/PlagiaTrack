@@ -1,0 +1,31 @@
+{
+    "rapport_id": "RPT-20250807-100141",
+    "documents_compares": [
+        "C:\\xampp\\htdocs\\PlagiaTrack\\backend/../documents/1/plagiat 25.docx",
+        "C:\\xampp\\htdocs\\PlagiaTrack\\backend/../documents/1/Plagiat 50.docx"
+    ],
+    "taux_similarite": 90.85,
+    "indice_suspicion_IA": 41.44,
+    "sections_similaires": [
+        {
+            "document1": "C:\\xampp\\htdocs\\PlagiaTrack\\backend/../documents/1/plagiat 25.docx",
+            "document2": "C:\\xampp\\htdocs\\PlagiaTrack\\backend/../documents/1/Plagiat 50.docx",
+            "score_similarite": 0.9084622519720571,
+            "sections_similaires": [
+                {
+                    "extrait_document_1": "Texte : Le plagiat en milieu scolaire\\n\\nLe plagiat en milieu scolaire désigne l’acte de copier, volontairement ou non, le travail ou les idées d’une autre personne sans lui en attribuer la paternité. Il peut prendre différentes formes, comme la copie mot à mot d’un texte, l’utilisation d’images sans autorisation, ou encore la reprise d’idées sans citer leurs auteurs. Ce phénomène est de plus en plus courant avec l’accès facile à l’information sur Internet.\\n",
+                    "extrait_document_2": "Texte : Le plagiat en milieu scolaire\\n\\nLe plagiat en milieu scolaire désigne l’acte de copier, volontairement ou non, le travail ou les idées d’une autre personne sans lui en attribuer la paternité. Il peut prendre différentes formes, comme la copie mot à mot d’un texte, l’utilisation d’images sans autorisation, ou encore la reprise d’idées sans citer leurs auteurs. Ce phénomène est de plus en plus courant avec l’accès facile à l’information sur Internet.\\n",
+                    "similarite": 0.7935548841893253
+                },
+                {
+                    "extrait_document_1": ".\\nLes établissements prennent le plagiat très au sérieux. Ils mettent en place des outils pour le détecter et n’hésitent pas à sanctionner les élèves qui s’y livrent. Ces sanctions peuvent aller d’une simple remarque à une exclusion temporaire, selon la gravité des faits. Il est donc essentiel de bien comprendre les règles et de les respecter.\\nPour lutter contre le plagiat, il est conseillé de toujours citer ses sources et de reformuler les informations trouvées dans ses propres mots. Les élèves doivent aussi apprendre à organiser leurs idées et à produire un travail personnel. Ainsi, ils valorisent leurs efforts et progressent dans leur apprentissage de façon honnête et responsable.\\n",
+                    "extrait_document_2": ".\\nLes établissements prennent le plagiat très au sérieux. Ils mettent en place des outils pour le détecter et n’hésitent pas à sanctionner les élèves qui s’y livrent. Ces sanctions peuvent aller d’une simple remarque à une exclusion temporaire, selon la gravité des faits. Il est donc essentiel de bien comprendre les règles et de les respecter.\\nPour lutter contre le plagiat, il est conseillé de toujours citer ses sources et de reformuler les informations trouvées dans ses propres mots. Les élèves doivent aussi apprendre à organiser leurs idées et à produire un travail personnel. Ainsi, ils valorisent leurs efforts et progressent dans leur apprentissage de façon honnête et responsable.\\n",
+                    "similarite": 0.7935548841893253
+                }
+            ]
+        }
+    ],
+    "analyse_effectuee_le": "2025-08-07 10:01:41",
+    "statut": "Plagiat probable",
+    "recommendation": "Verification manuelle recommandee."
+}
